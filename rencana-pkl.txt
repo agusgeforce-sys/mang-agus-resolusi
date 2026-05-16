@@ -6,3 +6,4 @@ Rencana PKL Mang Agus
   * bahasa suku Sentinel
   * bahasa tangan
 - Membuat claude ai pakai tangan sendiri
+- Makan
